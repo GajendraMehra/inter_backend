@@ -17,7 +17,10 @@
     "jsonwebtoken": "^8.4.0",
     "lodash": "latest",
     "morgan": "~1.9.0",
-    "pug": "2.0.0-beta11"
+    "pug": "2.0.0-beta11",
+    "passport": "0.4.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
   },
   "devDependencies": {
     "bcrypt-nodejs": "0.0.3",
